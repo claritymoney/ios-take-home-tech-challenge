@@ -1,4 +1,4 @@
-# iOS Tech Challenge - Take Home Challenge
+# Junior iOS Tech Challenge - Take Home Challenge
 
 Thank you for your interest in taking the iOS Tech Challenge.
 
@@ -56,18 +56,8 @@ Here are the design specs for the unpinned transaction view and the pin/unpin ic
 
 ![tech_challenge_images 005](./img/tech_challenge_images.005.png)
 
-### 4. Update the chart and list in the insights tab to reflect expense in each category
 
-The insights view should only consider pinned transactions.
-
-![tech_challenge_images 007](./img/tech_challenge_images.007.png)
-
-
-Make sure that the state between the transactions and the insights tab is kept consistent, as shown in this video capture:
-
-![](./img/insights_tab_with_pinned_unpinned_views.mp4)
-
-### 5. Unit tests 
+### 4. Unit tests 
 
 Write unit test to verify:
 
